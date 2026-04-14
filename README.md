@@ -2,7 +2,7 @@
 
 I'm **Kajtek**, a 17-year-old **Self-taught Fullstack Developer** based in Poland.
 
-Fast learner with an obsession for **clean code** and performance. I focus on every single detail to build fast, solid systems. Everything I build must be technically perfect, down to the last detail. Doing it right since 2020.
+Fast learner with an obsession for **clean code** and performance. Everything I build must be technically perfect, down to the last detail.
 
 ---
 
