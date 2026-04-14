@@ -7,7 +7,7 @@ Fast learner with an obsession for **clean code** and performance. I focus on ev
 ---
 
 ### 🔭 Current Focus
-* **Building the Ultimate Portfolio:** I'm currently engineering my personal website. It's not just a gallery — it's a showcase of **extreme performance**, perfect design, and the cleanest code possible. Stay tuned.
+* **Building the Ultimate Portfolio:** I'm currently engineering my personal website to showcase my projects.
 * **Character Development:** Beyond the screen, I’m focused on discipline, self-mastery, and continuous growth. I believe that a strong mindset is the foundation of high-quality engineering.
 
 ---
