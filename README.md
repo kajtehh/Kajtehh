@@ -10,6 +10,8 @@ Fast learner with an obsession for **clean code** and performance. Everything I 
 * **Building the Ultimate Portfolio:** I'm currently engineering my personal website to showcase my projects.
 * **Character:** Focusing on boxing 🥊 and personal growth. Strong mind, better code.
 
+---
+
 ### 🛠️ My Tech Stack:
 
 **Languages & Core**
