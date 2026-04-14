@@ -8,22 +8,7 @@ Fast learner with an obsession for **clean code** and performance. Everything I 
 
 ### 🔭 Current Focus
 * **Building the Ultimate Portfolio:** I'm currently engineering my personal website to showcase my projects.
-* **Character Development:** Beyond the screen, I’m focused on discipline, self-mastery, and continuous growth. I believe that a strong mindset is the foundation of high-quality engineering.
-
----
-
-### 🚀 What I Create
-* **Minecraft Ecosystem:** High-performance **Paper/Spigot** plugins and **Fabric mods** engineered for extreme efficiency and low-level optimization.
-
-* **Backend Systems:** Reliable APIs and microservices built with **Java & Spring Boot** **Java & Spring Boot**, powered by **PostgreSQL**, **Redis**, and **Supabase**.
-
-* **Integrated Discord Solutions:** I specialize in building **advanced Discord bots** seamlessly integrated with web dashboards and backend databases for full automation.
-
-* **Modern Web Architectures:** Clean, high-velocity interfaces using **Next.js**, **React**, and **TypeScript** — with a focus on type-safety (Zod) and performance.
-
-* **Visual Design:** Crafting clean and impactful graphics, ranging from UI/UX mockups to branding and social media assets using **Figma** and **Photoshop**.
-
----
+* **Character:** Focusing on boxing 🥊 and personal growth. Strong mind, better code.
 
 ### 🛠️ My Tech Stack:
 
@@ -62,7 +47,7 @@ Fast learner with an obsession for **clean code** and performance. Everything I 
 
 ---
 
-**Tools**
+**Tools & Environment**
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -71,3 +56,5 @@ Fast learner with an obsession for **clean code** and performance. Everything I 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
