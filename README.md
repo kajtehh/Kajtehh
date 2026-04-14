@@ -13,13 +13,15 @@ Fast learner with an obsession for **clean code** and performance. I focus on ev
 ---
 
 ### 🚀 What I Create
-- **Minecraft Ecosystem:** High-performance **Paper/Spigot** plugins and **Fabric mods** engineered for extreme efficiency and low-level optimization.
+* **Minecraft Ecosystem:** High-performance **Paper/Spigot** plugins and **Fabric mods** engineered for extreme efficiency and low-level optimization.
 
-- **Backend Systems:** Reliable APIs and microservices built with **Java & Spring Boot** **Java & Spring Boot**, powered by **PostgreSQL**, **Redis**, and **Supabase**.
+* **Backend Systems:** Reliable APIs and microservices built with **Java & Spring Boot** **Java & Spring Boot**, powered by **PostgreSQL**, **Redis**, and **Supabase**.
 
-- **Integrated Discord Solutions:** I specialize in building **advanced Discord bots** seamlessly integrated with web dashboards and backend databases for full automation.
+* **Integrated Discord Solutions:** I specialize in building **advanced Discord bots** seamlessly integrated with web dashboards and backend databases for full automation.
 
-- **Modern Web Architectures:** Clean, high-velocity interfaces using **Next.js**, **React**, and **TypeScript** — with a focus on type-safety (Zod) and performance.
+* **Modern Web Architectures:** Clean, high-velocity interfaces using **Next.js**, **React**, and **TypeScript** — with a focus on type-safety (Zod) and performance.
+
+* **Visual Design:** Crafting clean and impactful graphics, ranging from UI/UX mockups to branding and social media assets using **Figma** and **Photoshop**.
 
 ---
 
