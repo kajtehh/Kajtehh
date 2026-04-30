@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm **Kajtek**, 17-year-old fullstack developer based in Poland. Focused on clean code and type-safety.
+I'm **Kajtek**, 17-year-old fullstack developer based in Poland. Obssesed with clean code and type-safety.
 
 [View Portfolio](https://kajteh.dev)
 
